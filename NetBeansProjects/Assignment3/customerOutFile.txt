@@ -1,0 +1,12 @@
+=================== CUSTOMERS ======================== 
+ID    Name       Surname      Date of Birth   Age            
+====================================================== 
+C100  Mike       Rohsopht     1993-01-24 
+C130  Stu        Padassol     1987-05-18 
+C150  Luke       Atmyass      1981-01-27 
+C250  Eileen     Sideways     1999-11-27 
+C260  Ima        Stewpidas    2001-01-27 
+C300  Ivana.B    Withew       1998-07-16 
+
+Number of customers who can rent:        4 
+Number of customers who cannot rent:     2 
